@@ -9,10 +9,10 @@ Website: https://ciberludus.com
 
 **Difficulty:** Beginner  
 **Learning Objective:** Google Dorks / OSINT Awareness  
-**Scenario:** Patito Corp (Banking Subsidiary - Banco Atlantida)
+**Scenario:** Patito Corp (Banking Subsidiary - Banco PatoFin)
 
 ### Challenge Description
-Patito Corp, a banking technology subsidiary of Banco Atlantida, has accidentally exposed sensitive internal documents online. Your mission is to use Google Dorks (advanced search operators) to find leaked credentials in their system logs.
+Patito Corp, a banking technology subsidiary of Banco PatoFin, has accidentally exposed sensitive internal documents online. Your mission is to use Google Dorks (advanced search operators) to find leaked credentials in their system logs.
 
 ### Challenge Files
 - **[log_022026.log](./log_022026.log)** - Internal system logs containing database credentials
